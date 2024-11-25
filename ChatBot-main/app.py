@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 module main_file
-A vanilla python script to interract with a user in form of a chat
+A flask python script to interract with a user in form of a chat
 """
 
 from flask import Flask, jsonify, request, render_template
